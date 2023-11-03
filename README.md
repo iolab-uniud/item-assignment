@@ -1,6 +1,6 @@
 # Item Assignment Optimization
 
-This is the complementary repository for the paper "Task Design in Complex Crowdsourcing Experiments: Item Assignment Optimization", by Sara Ceschia, Kevin Roitero, Gianluca Demartini, Stefano Mizzaro, Luca Di Gaspero, and Andrea Schaerf, currently under submission to a journal.
+This is the complementary repository for the paper ["Task design in complex crowdsourcing experiments: Item assignment optimization"](https://www.sciencedirect.com/science/article/pii/S0305054822002295), by Sara Ceschia, Kevin Roitero, Gianluca Demartini, Stefano Mizzaro, Luca Di Gaspero, and Andrea Schaerf, Computers & Operations Research, 148, 105995, 2022.
 
 The *Item Assignment Optimization* problem consists in assigning crowdsourcing tasks to workers so as to fulfill a set of requirements and constraints and ensure quality and fairness criteria. 
 
